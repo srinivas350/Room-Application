@@ -1,0 +1,44 @@
+			.clear{
+			    background-color: red;
+			    color: ivory;
+			    margin-left:15px;
+			    }
+			.submit{
+			    background-color: green;
+			    color: ivory;
+			    margin-left : 15px;
+				}
+			.main{
+				width: auto;
+				height:90px;
+			    background-color:lightgreen;
+			}
+			.control-label
+			{
+				margin-top:5px; 
+			}
+			
+			.stl{
+				margin-top:35px;
+				margin:25px;
+			    }
+			.table{
+			 	border : 2px solid black;
+			 	background-color:lightblue;
+			    overflow:scroll;
+			}
+			.required label:after
+			 { 
+			 	color :red;
+			 	content:"*"; 
+			 }
+			 .edit{
+			    background-color: silver;
+			    color: ivory;
+			    margin-left:15px;
+			    }
+			 .block{
+			    margin:5px;	
+			     
+			 }
+			
